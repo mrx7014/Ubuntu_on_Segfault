@@ -105,6 +105,9 @@ cd ; touch start_ubuntu.sh ; echo "cd .vm/ubuntu ; qemu-system-x86_64 \
 ```sh
 ./start_ubuntu.sh
 ```
+
+- To stop server use `halt`
+
 *it will take sometime at first booting,Don't worry*
 _____
 
