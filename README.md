@@ -138,7 +138,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 
 - if you want another theme check oh-my-bash repo https://github.com/ohmybash/oh-my-bash
 
-**Note: If you have an error with repo in ubuntu when sync ROMs source,sync source from Kali and build from Ubuntu,Until i found a solution for this**
+<del>**Note: If you have an error with repo in ubuntu when sync ROMs source,sync source from Kali and build from Ubuntu,Until i found a solution for this**</del>
 ___________
 # Contact US
 - Linktree: https://linktr.ee/mrx7014
