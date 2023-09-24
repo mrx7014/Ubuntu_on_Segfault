@@ -126,10 +126,17 @@ __________
 apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; sudo apt install neofetch ; wget https://github.com/PizzaG/Build-Env-Setup-Scripts/releases/download/v0.25/BuildEnvLauncher.sh ; chmod +x * ; ./BuildEnvLauncher.sh
 ```
 
-- Now to enter and use /sec/root directory in ubuntu just enter:
+- Now to use /sec/root directory in ubuntu just enter:
 ```sh
 cd /sec/root
 ```
+
+- if you wanna make a some simple customize to server bash shell use this:
+```sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+```
+
+- if you want another theme check ohmybash repo https://github.com/ohmybash/oh-my-bash
 ___________
 # Contact US
 - Linktree: https://linktr.ee/mrx7014
