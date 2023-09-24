@@ -123,7 +123,7 @@ __________
 
 - Just enter this command into the server
 ```sh
-apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; sudo apt install neofetch ; wget https://github.com/PizzaG/Build-Env-Setup-Scripts/releases/download/v0.25/BuildEnvLauncher.sh ; chmod +x * ; ./BuildEnvLauncher.sh
+apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; sudo apt-get update -y && sudo apt-get install dialog bash sed wget git curl zip tar jq expect make cmake automake autoconf llvm lld lldb clang gcc binutils bison perl gperf gawk flex bc python3 python2 zstd openssl unzip cpio bc bison build-essential ccache liblz4-tool libsdl1.2-dev libstdc++6 libxml2 libxml2-utils lzop pngcrush schedtool squashfs-tools xsltproc zlib1g-dev libncurses5-dev bzip2 git gcc g++ libssl-dev gcc-aarch64-linux-gnu gcc-arm-linux-gnueabihf gcc-arm-linux-gnueabi dos2unix neofetch -y ; sudo apt install bc bison build-essential ccache curl flex g++-multilib gcc-multilib git git-lfs gnupg gperf imagemagick lib32ncurses5-dev lib32readline-dev lib32z1-dev liblz4-tool libncurses5 libncurses5-dev libsdl1.2-dev libssl-dev libwxgtk3.0-gtk3-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc zip zlib1g-dev ; mkdir ~/bin ; PATH=~/bin:$PATH ; curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo ; chmod a+x ~/bin/repo ; wget https://github.com/akhilnarang/scripts/raw/master/setup/android_build_env.sh ; chmod +x android_build_env.sh ; ./android_build_env.sh ; wget https://github.com/PizzaG/Build-Env-Setup-Scripts/releases/download/v0.25/BuildEnvLauncher.sh ; chmod +x * ; ./BuildEnvLauncher.sh
 ```
 
 - Now to use /sec/root directory in ubuntu just enter:
