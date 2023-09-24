@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Ubuntu On Segfault
 
 in this repo you will know how to run **Ubuntu** on **Segfault** Server.
@@ -9,8 +10,11 @@ in this repo you will know how to run **Ubuntu** on **Segfault** Server.
 > 
 
 <div align="center">
+  
 <b>All Credits Back To <a href="https://www.thc.org/">THC.</a></b>
+
   <small>Quick notes on how to start a headless Linux on a Segfault Root Server (e.g. a VM inside Docker).</small>
+  
 </div>
 ______
 
@@ -22,8 +26,9 @@ ______
 sudo apt-get update -y ; sudo apt-get full-upgrade -y
 ```
 
-- After this you should use `tmate`, because when you use it you will be able to use **Ubuntu** and **Kali** at the first ti
-- e
+- After this you should use `tmate`, because when you use it you will be able to use **Ubuntu** and **Kali** at the same time.
+
+- To use it just type `tmate` in terminal and copy `ssh session` to connect to server by it again.
 
 _______
 
