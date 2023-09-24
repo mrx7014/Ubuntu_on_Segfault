@@ -13,7 +13,7 @@ in this repo you will know how to run **Ubuntu** on **Segfault** Server.
   
 <b>All Credits Back To <a href="https://www.thc.org/">THC.</a></b>
 
-<small>Quick notes on how to start a headless Linux on a Segfault Root Server (e.g. a VM inside Docker).</small>
+His guide about this <a href="https://iq.thc.org/starting-a-vm-on-segfault-docker">Here</a>
   
 </div>
 
