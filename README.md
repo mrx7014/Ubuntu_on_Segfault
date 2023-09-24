@@ -131,12 +131,12 @@ apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgra
 cd /sec/root
 ```
 
-- if you wanna make a some simple customize to server bash shell use this:
+- if you wanna make a simple customize to server bash shell use this:
 ```sh
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 ```
 
-- if you want another theme check ohmybash repo https://github.com/ohmybash/oh-my-bash
+- if you want another theme check oh-my-bash repo https://github.com/ohmybash/oh-my-bash
 ___________
 # Contact US
 - Linktree: https://linktr.ee/mrx7014
