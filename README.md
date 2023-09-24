@@ -123,7 +123,7 @@ __________
 
 - Just enter this command into the server
 ```sh
-apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; wget https://github.com/PizzaG/Build-Env-Setup-Scripts/releases/download/v0.25/BuildEnvLauncher.sh ; chmod +x * ; ./BuildEnvLauncher.sh
+apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; wget https://github.com/PizzaG/Build-Env-Setup-Scripts/releases/download/v0.25/BuildEnvLauncher.sh ; chmod +x * ; ./BuildEnvLauncher.sh ; sudo apt --fix-broken install
 ```
 
 - Now to use /sec/root directory in ubuntu just enter:
