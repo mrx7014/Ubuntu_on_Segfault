@@ -8,15 +8,6 @@ in this repo you will know how to run **Ubuntu** on **Segfault** Server.
 
 > if you don't know this server check this https://github.com/mrx7014/SSH-KaliLinux
 > 
-
-<div align="center">
-  
-<b>All Credits Back To <a href="https://www.thc.org/">THC.</a></b>
-
-**THC Guide <a href="https://iq.thc.org/starting-a-vm-on-segfault-docker">Here</a>**
-  
-</div>
-
 ______
 
 # Let's GOOOOOO !
@@ -148,8 +139,3 @@ ___________
 # Contact US
 - Linktree: https://linktr.ee/mrx7014
 - Donate: https://bmc.link/mrx7014
-____________
-# Thanks to 
-- [THC](https://www.thc.org) for this free server
-- join telegram group https://t.me/thcorg
-- Website: https://www.thc.org
