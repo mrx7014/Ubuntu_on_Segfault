@@ -76,7 +76,7 @@ qemu-img resize "${IMAGE:?}" 32G
 ```
 - Now you can start using ubuntu image,but....**Let's do some tricks**
 
-- Go back to home directory and enter this command on terminal to make a shortcut with bash script to start a image in an easy way.
+- Enter this command on terminal to make a shortcut with bash script to start a image in an easy way.
 
 ```sh
 cd ; touch start_ubuntu.sh ; echo "cd .vm/ubuntu ; qemu-system-x86_64 \
