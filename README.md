@@ -123,7 +123,9 @@ ________
 
 # Now if you facing any errors with this ubuntu version you can use DistroBox and install Ubuntu with docker via it and use Ubuntu or any other distro.
 
-- First:
+_________
+
+# First:
 
 - We should install Docker.So,Enter this command in terminal
 ```sh
