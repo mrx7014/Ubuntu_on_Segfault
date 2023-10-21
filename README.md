@@ -150,7 +150,7 @@ It takes some time at the first installation.
 - After it completed you can use Ubuntu easily.
 ________
 
-- If you want to use another distro just type 'distrobox -i create <distro name:version>'
+- If you want to use another distro just type 'distrobox -i create 'distro name:version'
 
 Check DistroBox repo if you want to know more about it <a href="https://github.com/89luca89/distrobox">Here</a>
 
