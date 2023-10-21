@@ -117,10 +117,44 @@ __________
 
 - Just enter this command into the server
 ```sh
-apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; wget https://github.com/PizzaG/Build-Env-Setup-Scripts/releases/download/v0.25/BuildEnvLauncher.sh ; chmod +x * ; ./BuildEnvLauncher.sh ; sudo apt --fix-broken install
+apt update ; apt install sudo ; sudo apt-get update -y ; sudo apt-get full-upgrade -y ; sudo apt install curl
+```
+________
+
+# Now if you facing any errors with this ubuntu version you can use DistroBox and install Ubuntu with docker via it and use Ubuntu or any other distro.
+
+- First:
+
+- We should install Docker.So,Enter this command in terminal
+```sh
+sudo apt install docker.io
 ```
 
-- Now to use /sec/root directory in ubuntu just enter:
+- After this install DistroBox
+```sh
+curl -s https://raw.githubusercontent.com/89luca89/distrobox/main/install | sudo sh
+```
+- After installation is completed now learn how to install Ubuntu 23.04
+```sh
+distrobox create -i ubuntu:23.04
+```
+
+- After installation is completed,Enter this command to open Ubuntu
+```sh
+distrobox enter ubuntu:23.04
+```
+It takes some time at the first installation.
+
+- After it completed you can use Ubuntu easily.
+________
+
+- If you want to use another distro just type 'distrobox -i create <distro name:version>'
+
+Check DistroBox repo if you want to know more about it <a href="https://github.com/89luca89/distrobox">Here</a>
+
+_______
+
+- To use /sec/root directory in ubuntu just enter:
 ```sh
 cd /sec/root
 ```
@@ -132,9 +166,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 
 - if you want another theme check oh-my-bash repo https://github.com/ohmybash/oh-my-bash
 
-<del>**Note: If you have an error with repo in ubuntu when sync ROMs source,sync source from Kali and build from Ubuntu,Until i found a solution for this**</del>
-
-- *Repo sync error fixed*
 ___________
 # Contact US
 - Linktree: https://linktr.ee/mrx7014
