@@ -158,7 +158,7 @@ _______
 
 - To use /sec/root directory in ubuntu just enter:
 ```sh
-cd /sec/root
+cd /run/host/sec/root
 ```
 
 - if you wanna make a simple customize to server bash shell use this:
