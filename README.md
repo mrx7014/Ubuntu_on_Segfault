@@ -143,7 +143,7 @@ distrobox create -i ubuntu:23.04
 
 - After installation is completed,Enter this command to open Ubuntu
 ```sh
-distrobox enter ubuntu:23.04
+distrobox enter ubuntu-23-04
 ```
 It takes some time at the first installation.
 
