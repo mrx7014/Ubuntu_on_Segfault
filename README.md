@@ -15,7 +15,7 @@ ______
 - First open your server and update it
 
 ```sh
-sudo apt-get update -y ; sudo apt-get full-upgrade -y
+sudo apt-get update -y ; sudo apt-get upgrade -y
 ```
 
 - After this you should use `tmate`, because when you use it you will be able to use **Ubuntu** and **Kali** at the same time.
